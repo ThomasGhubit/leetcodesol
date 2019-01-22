@@ -10,4 +10,4 @@ LeetCode
 |4|Array|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[Java](./Algorithms/median-of-two-sorted-arrays)|Hard|
 |41|Array|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[Java](./Algorithms/first-missing-positive)|Hard|
 |123|Dynamic Programming|[Best Time to Buy and Sell III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)|[Java](./Algorithms/best-time-to-buy-and-sell)|Hard|
-|95|Dynamic Programming|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/discuss/?currentPage=1&orderBy=most_votes&query=)|[Java](./Algorithms/unique-binary-search-trees-ii)|Hard|
+|95|Dynamic Programming|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)|[Java](./Algorithms/unique-binary-search-trees-ii)|Hard|
