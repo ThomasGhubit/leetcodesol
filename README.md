@@ -14,3 +14,4 @@ LeetCode
 |65|Math|[Valid Number](https://leetcode.com/problems/valid-number/)|[Java](./Algorithms/valid-number)|Hard|
 |6|String|[Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[Java](./Algorithms/zigzag-conversion)|Medium|
 |30|String|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)|[Java](./Algorithms/substring-with-concatenation-of-all-words)|Hard|
+|32|String|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|[Java](./Algorithms/longest-valid-parentheses)|Hard|
