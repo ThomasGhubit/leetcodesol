@@ -1,0 +1,50 @@
+class Solution {
+    // DFS
+    public Map<Integer, List<List<Integer>>> map = new HashMap<>();
+    public int result[] = new int[1];
+    
+    public int findCheapestPrice(int n, int[][] flights, int src, int dst, int K) {
+        result[0] = Integer.MAX_VALUE;
+        if (flights == null || flights.length == 0 || flights[0].length == 0) return -1;
+        constructionGraph(flights);
+        boolean[] visited = new boolean[n];
+        visited[src] = true;
+        dfs(src, dst, K, visited, 0, result);
+        return result[0] == Integer.MAX_VALUE ? -1 : result[0];        
+    }
+    private void constructionGraph(int[][] flights){
+    //graph construction
+        for (int i = 0; i < flights.length; i++){
+        int source = flights[i][0];
+        int des = flights[i][1];
+        int cost = flights[i][2];
+        if (!map.containsKey(source)){
+            map.put(source, new ArrayList<>());
+        }
+        List<Integer> DesAndCost = new ArrayList<>();
+        DesAndCost.add(des);
+        DesAndCost.add(cost);
+        map.get(source).add(DesAndCost);
+        }        
+    }
+    //current src -> destination use at most K stop with the min cost now (curcost)
+    private void dfs(int src, int dst, int K, boolean[] visited, int curcost, int[] result){
+        if (src == dst){
+            result[0] = curcost;
+            return;
+        }
+        if (K < 0) return;
+        
+        if (!map.containsKey(src)) return;
+        
+        for (List<Integer> desAndCost : map.get(src)){
+            int des = desAndCost.get(0);
+            int cost = desAndCost.get(1);
+            if (visited[des] == true) continue;
+            if (curcost + cost > result[0]) continue;
+            visited[des] = true;
+            dfs(des, dst, K - 1, visited, cost + curcost, result);
+            visited[des] = false;
+        }
+    }
+}
