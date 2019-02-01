@@ -16,4 +16,4 @@ LeetCode
 |30|String|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)|[Java](./Algorithms/substring-with-concatenation-of-all-words)|Hard|
 |32|String|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|[Java](./Algorithms/longest-valid-parentheses)|Hard|
 |99|Tree|[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)|[Java](./Algorithms/recover-binary-search-tree)|Hard|
-||||||
+|787|Dynamic Programming|[Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)|[Java](./Algorithms/cheapest-flights-within-k-stops/)|Medium|
