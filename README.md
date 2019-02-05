@@ -20,3 +20,4 @@ LeetCode
 |129|Tree|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[Java](./Algorithms/sum-root-to-leaf-numbers/)|Medium|
 |146|Design|[LRU Cache](https://leetcode.com/problems/lru-cache/)|[Java](./Algorithms/lru-cache/)|Hard|
 |145|Tree|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[Java](./Algorithms/binary-tree-postorder-traversal/)|Hard|
+|104|Tree|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Java](./Algorithms/binary-tree-level-order-traversal/)|Medium|
