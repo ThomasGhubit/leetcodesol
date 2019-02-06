@@ -19,5 +19,7 @@ LeetCode
 |787|Dynamic Programming|[Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)|[Java](./Algorithms/cheapest-flights-within-k-stops/)|Medium &hearts;|
 |129|Tree|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[Java](./Algorithms/sum-root-to-leaf-numbers/)|Medium|
 |146|Design|[LRU Cache](https://leetcode.com/problems/lru-cache/)|[Java](./Algorithms/lru-cache/)|Hard|
+|144|Tree|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[Java](./Algorithms/binary-tree-preorder-traversal/)|Medium|
+|94|Tree|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Java](./Algorithms/binary-tree-inorder-traversal/)|Medium|
 |145|Tree|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[Java](./Algorithms/binary-tree-postorder-traversal/)|Hard|
 |104|Tree|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Java](./Algorithms/binary-tree-level-order-traversal/)|Medium|
