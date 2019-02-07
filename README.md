@@ -23,4 +23,4 @@ LeetCode
 |94|Tree|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Java](./Algorithms/binary-tree-inorder-traversal/)|Medium|
 |145|Tree|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[Java](./Algorithms/binary-tree-postorder-traversal/)|Hard|
 |104|Tree|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Java](./Algorithms/binary-tree-level-order-traversal/)|Medium|
-|99|DFS|[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)|[Java](./Algorithms/recover-binary-search-tree/)|Hard|
+|105|DFS|[Construct Binary Tree from Preorder](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|[Java](./Algorithms/construct-binary-tree-from-preorder-and-inorder-traversal)|Medium|
