@@ -27,3 +27,5 @@ LeetCode
 |106|DFS|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)|[Java](./Algorithms/construct-binary-tree-from-inorder-and-postorder-traversal)|Medium|
 |108|DFS|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[Java](./Algorithms/convert-sorted-array-to-binary-search-tree)|Easy|
 |109|DFS|[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)|[Java](./Algorithms/convert-sorted-list-to-binary-search-tree)|Medium|
+|11|Two Pointer|[Container with Most Water](https://leetcode.com/problems/container-with-most-water/)|[Java](./Algorithms/container-with-most-water)|Medium|
+|16|Two Pointer|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[Java](./Algorithms/3sum-closest)|Medium|
