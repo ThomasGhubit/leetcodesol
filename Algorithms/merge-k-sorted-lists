@@ -1,0 +1,26 @@
+    public ListNode mergeKLists(ListNode[] lists) {
+        // Corner cases to add.
+        if (lists == null || lists.length == 0)
+            return null;
+        
+        // Build a minHeap that always poll the minimum ListNode/
+        PriorityQueue<ListNode> minHeap = new PriorityQueue<>((a, b) -> Integer.compare(a.val, b.val));
+        
+        // Add all non-null head ListNodes to minHeap.
+        for (ListNode head : lists) {
+            if (head != null)
+                minHeap.add(head);
+        }
+        
+        // Build new list.
+        ListNode dummyHead = new ListNode(0), ptr = dummyHead;
+        while (!minHeap.isEmpty()) {
+            ListNode minNode = minHeap.remove();
+            ptr.next = minNode;
+            if (minNode.next != null)
+                minHeap.add(minNode.next);
+            ptr = ptr.next;
+        }
+        
+        return dummyHead.next;
+    }
