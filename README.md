@@ -31,3 +31,4 @@ LeetCode
 |16|Two Pointer|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[Java](./Algorithms/3sum-closest)|Medium|
 |23|Heap|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[Java](./Algorithms/merge-k-sorted-lists)|Hard|
 |113|Tree|[Path Sum II](https://leetcode.com/problems/path-sum-ii/)|[Java](./Algorithms/path-sum-ii)|Medium|
+|138|HashTable|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|[Java](./Algorithms/copy-list-with-random-pointer)|Medium|
