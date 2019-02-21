@@ -32,3 +32,4 @@ LeetCode
 |23|Heap|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[Java](./Algorithms/merge-k-sorted-lists)|Hard|
 |113|Tree|[Path Sum II](https://leetcode.com/problems/path-sum-ii/)|[Java](./Algorithms/path-sum-ii)|Medium|
 |138|HashTable|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|[Java](./Algorithms/copy-list-with-random-pointer)|Medium|
+|380|HashTable|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|[Java](./Algorithms/insert-delete-getrandom-o1)|Medium|
