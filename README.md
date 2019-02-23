@@ -34,4 +34,4 @@ LeetCode
 |138|HashTable|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|[Java](./Algorithms/copy-list-with-random-pointer)|Medium|
 |380|HashTable|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|[Java](./Algorithms/insert-delete-getrandom-o1)|Medium|
 |146|Design|[LRU Cache](https://leetcode.com/problems/lru-cache/)|[Java](./Algorithms/lru-cache)|Hard|
-|||||Hard|
+|||[]()|[Java]()|Hard|
