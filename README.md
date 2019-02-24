@@ -35,3 +35,4 @@ LeetCode
 |380|HashTable|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|[Java](./Algorithms/insert-delete-getrandom-o1)|Medium|
 |146|Design|[LRU Cache](https://leetcode.com/problems/lru-cache/)|[Java](./Algorithms/lru-cache)|Hard|
 |||[]()|[Java]()|Hard|
+||||||
