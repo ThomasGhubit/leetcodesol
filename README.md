@@ -34,5 +34,5 @@ LeetCode
 |138|HashTable|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|[Java](./Algorithms/copy-list-with-random-pointer)|Medium|
 |380|HashTable|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|[Java](./Algorithms/insert-delete-getrandom-o1)|Medium|
 |146|Design|[LRU Cache](https://leetcode.com/problems/lru-cache/)|[Java](./Algorithms/lru-cache)|Hard|
-|||[]()|[Java]()|Hard|
+|1|OOD|[Elevator Design](https://leetcode.com/discuss/interview-question/object-oriented-design/124927/Write-elevator-program-using-event-driven-programming)|[Java](./Design/elevator)|Hard|
 ||||||
