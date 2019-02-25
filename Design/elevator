@@ -1,0 +1,19 @@
+You have several functions to control elevator:
+moveUp()
+moveDown()
+stopAndOpenDoor()
+closeDoor()
+
+Note:I forgot some parts, but I believe you can figure out which functions are necessary as well - However, you should think about situation that multiple users pushing buttons in different floors. So, obviously you should keep record of buttons pushed, inside and outside of the elevator, sort them, and move the way the elevator should work. You can suppose we have N>1 floors, and currently elevator is in 1 <= m <=N floor, and initialize your class with these numbers and elevator is empty.
+
+For example, I will tell you we have 10 floors and at start the elevator is in floor 2 and empty.
+
+Now, complete these functions using above basic elevator actions to have a fully functional elevator, you can use a class, and for example for at_floor() save the state of elevator in a class variable:
+
+void on_push_button(int num)// When user push in each floor
+{
+}
+
+void at_floor() // Gives you current floor number
+{
+}
