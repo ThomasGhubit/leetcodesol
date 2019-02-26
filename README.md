@@ -35,4 +35,4 @@ LeetCode
 |380|HashTable|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|[Java](./Algorithms/insert-delete-getrandom-o1)|Medium|
 |146|Design|[LRU Cache](https://leetcode.com/problems/lru-cache/)|[Java](./Algorithms/lru-cache)|Hard|
 |1|OOD|[Elevator Design](https://leetcode.com/discuss/interview-question/object-oriented-design/124927/Write-elevator-program-using-event-driven-programming)|[Java](./Design/elevator)|Hard|
-||||||
+|451|PriorityQueue|[Sort Character by Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)|[Java](./Algorithms/sort-characters-by-frequency)|Medium|
