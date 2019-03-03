@@ -23,8 +23,9 @@ LeetCode
 |94|Tree|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Java](./Algorithms/binary-tree-inorder-traversal/)|Medium|
 |145|Tree|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[Java](./Algorithms/binary-tree-postorder-traversal/)|Hard|
 |104|Tree|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Java](./Algorithms/binary-tree-level-order-traversal/)|Medium|
-|105|DFS|[Construct Binary Tree from Preorder](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|[Java](./Algorithms/construct-binary-tree-from-preorder-and-inorder-traversal)|Medium|
+|105|DFS|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|[Java](./Algorithms/construct-binary-tree-from-preorder-and-inorder-traversal)|Medium|
 |106|DFS|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)|[Java](./Algorithms/construct-binary-tree-from-inorder-and-postorder-traversal)|Medium|
+|889|DFS|[Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)|[Java](./Algorithms/construct-binary-tree-from-preorder-and-postorder-traversal)|Medium|
 |108|DFS|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[Java](./Algorithms/convert-sorted-array-to-binary-search-tree)|Easy|
 |109|DFS|[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)|[Java](./Algorithms/convert-sorted-list-to-binary-search-tree)|Medium|
 |11|Two Pointer|[Container with Most Water](https://leetcode.com/problems/container-with-most-water/)|[Java](./Algorithms/container-with-most-water)|Medium|
