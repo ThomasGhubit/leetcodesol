@@ -38,3 +38,4 @@ LeetCode
 |1|OOD|[Elevator Design](https://leetcode.com/discuss/interview-question/object-oriented-design/124927/Write-elevator-program-using-event-driven-programming)|[Java](./Design/elevator)|Hard|
 |451|PriorityQueue|[Sort Character by Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)|[Java](./Algorithms/sort-characters-by-frequency)|Medium|
 |364|DFS|[Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii/)||Medium|
+|272|Deque|[Closest Binary Search Tree Value II](https://leetcode.com/problems/closest-binary-search-tree-value-ii/)||Hard|
