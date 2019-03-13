@@ -40,4 +40,4 @@ LeetCode
 |364|DFS|[Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii/)||Medium|
 |272|Deque|[Closest Binary Search Tree Value II](https://leetcode.com/problems/closest-binary-search-tree-value-ii/)||Hard|
 |716|Design|[Max Stack](https://leetcode.com/problems/max-stack/)||Easy|
-||||||
+|366|BFS|[Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree/)||Medium|
