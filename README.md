@@ -42,3 +42,4 @@ LeetCode
 |716|Design|[Max Stack](https://leetcode.com/problems/max-stack/)||Easy|
 |366|BFS|[Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree/)||Medium|
 |373|PriorityQueue|[Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)||Medium|
+|254|DFS|[Factors Combinations](https://leetcode.com/problems/factor-combinations/)||Medium|
