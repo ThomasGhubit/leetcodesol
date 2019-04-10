@@ -52,5 +52,5 @@ LeetCode
 |593||[Valid Square](https://leetcode.com/problems/valid-square/)|PS|Medium|
 |218|BFS|[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)|PS|Hard|
 |730||[Count Different Palindromic Subsequences](https://leetcode.com/problems/count-different-palindromic-subsequences/)|PS|Hard|
-||||||
-||||||
+|935|DFS|[Knight Dialer](https://leetcode.com/problems/knight-dialer/)|Chess|Medium|
+|688||[Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/)|Chess|Medium|
