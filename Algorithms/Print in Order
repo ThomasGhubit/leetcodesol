@@ -1,0 +1,41 @@
+import java.util.concurrent.locks.*;
+import java.util.concurrent.Semaphore;
+class Foo {
+    // int count = 0;
+    private final Semaphore second;
+    private final Semaphore third;
+    public Foo() {
+        second = new Semaphore(0);
+        third = new Semaphore(0);
+    }
+
+    public void first(Runnable printFirst) throws InterruptedException { // synchronized
+        // printFirst.run() outputs "first". Do not change or remove this line.
+        printFirst.run();
+        second.release();
+        //count++;
+        //this.notifyAll();
+    }
+
+    public void second(Runnable printSecond) throws InterruptedException {
+        //while(count != 1){
+        //    this.wait();
+        //}
+        //count++;
+        // printSecond.run() outputs "second". Do not change or remove this line.
+        second.acquire();
+        printSecond.run();
+        third.release();
+        //this.notifyAll();
+    }
+
+    public void third(Runnable printThird) throws InterruptedException {
+        //while(count != 2){
+        //    this.wait();
+        //}
+        // printThird.run() outputs "third". Do not change or remove this line.
+        third.acquire();
+        printThird.run();
+        // count++;
+    }
+}
