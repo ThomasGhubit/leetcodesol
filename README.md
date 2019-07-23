@@ -56,4 +56,4 @@ LeetCode
 |688||[Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/)|Chess|Medium|
 ||||||
 |1114|Concurrency|[Print in Order](https://leetcode.com/problems/print-in-order/)|[Java](./Algorithms/print-in-order)|Easy|
-|1115|Concurrency|[Print FooBar Alternately](https://leetcode.com/problems/print-foobar-alternately/)|[Java](./Algorithms/)|Medium|
+|1115|Concurrency|[Print FooBar Alternately](https://leetcode.com/problems/print-foobar-alternately/)|[Java](./Algorithms/print-foobar-alternately)|Medium|
