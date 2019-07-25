@@ -58,3 +58,4 @@ LeetCode
 |1114|Concurrency|[Print in Order](https://leetcode.com/problems/print-in-order/)|[Java](./Algorithms/print-in-order)|Easy|
 |1115|Concurrency|[Print FooBar Alternately](https://leetcode.com/problems/print-foobar-alternately/)|[Java](./Algorithms/print-fooBar-alternately)|Medium|
 |1116|Concurrency|[Print Zero Even Odd](https://leetcode.com/problems/print-zero-even-odd/)|[Java](./Algorithms/print-zero-even-odd)|Medium|
+|1117|Concurrency|[Building H2O](https://leetcode.com/problems/building-h2o/)|[Java](./Algorithms/building-h2o)|Hard|
